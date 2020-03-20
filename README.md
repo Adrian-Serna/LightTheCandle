@@ -18,3 +18,5 @@ Los distintos planos de hardware estarán disponibles pronto para su descarga.
 Esta es la primera versión, aún en desarrollo y tiene  varios pendientes, pero funciona de forma estable.
 
 La documentación básica de uso estará pública en breve.
+
+<img src="/Carlos-Adrian-Serna/LightTheCandle/blob/master/Captura%20de%20pantalla.png?raw=true" alt="Captura de pantalla.png">
