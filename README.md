@@ -19,4 +19,4 @@ Esta es la primera versión, aún en desarrollo y tiene  varios pendientes, pero
 
 La documentación básica de uso estará pública en breve.
 
-<img src="/Carlos-Adrian-Serna/LightTheCandle/blob/master/Captura%20de%20pantalla.png?raw=true" alt="Captura de pantalla.png">
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://raw.githubusercontent.com/Carlos-Adrian-Serna/LightTheCandle/master/Captura%20de%20pantalla.png" width="793" height="587">
