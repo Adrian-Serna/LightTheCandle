@@ -20,3 +20,11 @@ Esta es la primera versión, aún en desarrollo y tiene  varios pendientes, pero
 La documentación básica de uso estará pública en breve.
 
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://raw.githubusercontent.com/Carlos-Adrian-Serna/LightTheCandle/master/Captura%20de%20pantalla.png" width="793" height="587">
+
+
+Los cuadros de marco verde sobre la imagen, corresponden a la posición donde se captará el brillo de los píxeles de la imagen para determinar si debe o no activarse el interruptor.
+
+Actualmente debe ejecutarse con el arduino conectado y la fuente de video syphon abierta.
+El puerto del arduino debe configurarse en la línea 101 del programa.
+
+      String portName = Serial.list()[3];
